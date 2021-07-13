@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.DropDownItem {
+  width: 200px;
+  background-color: lightblue;
+  margin: 4px;
+  padding: 8px;
+  font-size: 24px;
+}
+
+.DropDownItem:hover {
+  cursor: pointer;
+  background-color: gray;
+  color: white;
+}
